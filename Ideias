@@ -1,0 +1,19 @@
+Money {Skin do player(essas skins poderiam ser de pessoas com os nome trocados, mas com suas armas e balas
+	sendo algo da sua personalidade), 
+	de armas, da bala e recovery de chances, recovery de chances assistindo adds, mas com o maximo de 3
+	por game, depois de ter assistido 3, no mesmo game nao pode assistir mais, so no proxima tentativa.}
+
+Fazes {As fazes seriam infinitas e auto geradas, com algumas regrade autoCriacao, para nao poder
+	impocibilitar a suas finalizacao, para avancar o player tem que derrotar o Enemy que esta com
+	a Key da door, em todas as fazes o enemy que esta com a chave TEM QUE SER RANDOM. A cada faze passada 
+	a faze futura tem ir ficando progreciva mente mais dificil.}
+	
+Armas {O player vai ter dois tipos de armas uma corpo a corpo e uma ranged com balas finitas.}
+
+Armadura/Escudo {TALVEZ o player posso ter um armadura e um escudo, seria mais um recurso pocivel de ser
+				modificado com as skins.}
+				
+Enemys {Os enemys vao se modificando a cada 5 fazes mas nao perdendo as carateristicas. A cada 10 Fazes
+		tem um Boss, com drop da key da chave e TALVEZ de um item.}
+		
+Visao dos inimigos {Os inimigos so poderam ir atras do player quando o mesmo estiver na area de inimigo.}
